@@ -20,5 +20,4 @@ public class ShortCircuitEvaluation {
         result = (a += 10) <= 5 || ( b += 50 ) <70; // 뒷 부분이 먼저 왔으면 연산할 게 하나 줄어들어 자원 낭비 안 할 수 있음 : 자원 낭비
         System.out.println(result);
     }
-
 }
