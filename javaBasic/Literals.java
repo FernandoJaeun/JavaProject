@@ -14,6 +14,4 @@ public class Literals { // 자료형을 기반으로 표현되는 상수를 의�
         System.out.println("011 + 022 + 033 = " + (011 + 022 + 033));
         System.out.println("0x11 + 0x22 + 0x33 = " + (0x11 + 0x22 + 0x33)); // 입력은 16진수 이지만, 출력은 10진수
     }
-
-    private static void 
 }
