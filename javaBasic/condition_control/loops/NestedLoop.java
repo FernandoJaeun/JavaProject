@@ -1,5 +1,4 @@
-package javaBasic.ConditionControl.Loop;
-
+package javaBasic.condition_control.loops;
 
 public class NestedLoop {
     public static void main(String[] args) {

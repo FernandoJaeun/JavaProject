@@ -1,4 +1,4 @@
-package javaBasic.ConditionControl.ContinueandBreak;
+package javaBasic.condition_control.continue_break;
 
 public class ContinueBreak {
     public static void main(String[] args) {

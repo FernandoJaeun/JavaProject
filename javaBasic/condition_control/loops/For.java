@@ -1,4 +1,4 @@
-package javaBasic.ConditionControl.Loop;
+package javaBasic.condition_control.loops;
 
 public class For {
     public static void main(String[] args) {

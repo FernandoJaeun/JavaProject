@@ -1,4 +1,4 @@
-package javaBasic.Operator.BinaryOperator;
+package javaBasic.operator.binary_operator;
 
 public class ArithmeticOperator {
         public static void main(String[] args) {

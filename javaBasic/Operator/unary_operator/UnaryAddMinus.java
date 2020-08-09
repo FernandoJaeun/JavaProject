@@ -1,4 +1,4 @@
-package javaBasic.Operator.UnaryOperator;
+package javaBasic.operator.unary_operator;
 
 public class UnaryAddMinus {
     public static void main(String[] args) {

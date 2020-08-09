@@ -1,4 +1,4 @@
-package javaBasic.ConditionControl.IfandElse;
+package javaBasic.condition_control.if_else;
 
 public class ConditionOperator {
     public static void main(String[] args) {

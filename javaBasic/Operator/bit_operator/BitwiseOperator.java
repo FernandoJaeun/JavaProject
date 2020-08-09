@@ -1,4 +1,4 @@
-package javaBasic.Operator.BitOperator;
+package javaBasic.operator.bit_operator;
 
 public class BitwiseOperator {
     public static void main(String[] args) {
