@@ -1,5 +1,4 @@
-package javaBasic;
-
+package javaBasic.Operator.BinaryOperator;
 public class LogicOperator {
     public static void main(String[] args) {
         int a = 10;

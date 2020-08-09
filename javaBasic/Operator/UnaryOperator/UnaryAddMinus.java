@@ -1,6 +1,6 @@
-package javaBasic;
+package javaBasic.Operator.UnaryOperator;
 
-public class UnaryOperator {
+public class UnaryAddMinus {
     public static void main(String[] args) {
         int n1 = 7;
         System.out.println("n1 = " + n1);

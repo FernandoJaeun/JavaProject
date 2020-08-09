@@ -1,4 +1,4 @@
-package javaBasic;
+package javaBasic.ConditionControl.SwitchandBreak;
 
 public class SwitchBreak {
     public static void main(String[] args) {

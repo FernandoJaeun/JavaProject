@@ -1,4 +1,4 @@
-package javaBasic;
+package javaBasic.variable;
 
 public class Literals { // 자료형을 기반으로 표현되는 상수를 의미한다.
                         // 자료형(data type)이란 int, char, boolean 과 같이 데이터를 변수에 담을 때 지정하는 형식(틀) 이다.

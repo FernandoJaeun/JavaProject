@@ -1,4 +1,4 @@
-package javaBasic;
+package javaBasic.ConditionControl.Loop;
 
 public class InfiniteLoop {
     public static void main(final String[] args) {

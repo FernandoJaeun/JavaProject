@@ -1,4 +1,4 @@
-package javaBasic;
+package javaBasic.Operator.BitOperator;
 
 public class BitshiftOperator {
     public static void main(String[] args) {

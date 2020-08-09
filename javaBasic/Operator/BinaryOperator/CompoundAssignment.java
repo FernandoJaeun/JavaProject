@@ -1,4 +1,4 @@
-package javaBasic;
+package javaBasic.Operator.BinaryOperator;
 
 public class CompoundAssignment {
     public static void main(String[] args) {

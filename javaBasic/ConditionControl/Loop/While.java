@@ -1,5 +1,4 @@
-package javaBasic;
-
+package javaBasic.ConditionControl.Loop;
 public class While {
     public static void main(String[] args) {
 
