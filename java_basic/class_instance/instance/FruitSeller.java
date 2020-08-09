@@ -1,4 +1,4 @@
-package java_basic.class_instance.subject1;
+package java_basic.class_instance.instance;
 
 public class FruitSeller {
     private static final int APPLE_PRICE = 1000;
